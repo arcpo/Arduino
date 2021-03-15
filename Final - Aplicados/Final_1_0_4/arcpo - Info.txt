@@ -1,0 +1,5 @@
+Arduino UNO, o NANO
+Usa un rele para controlar una bomba
+toma mediciones de un sensor de distancia por sonido
+
+mas info en el programa comentado

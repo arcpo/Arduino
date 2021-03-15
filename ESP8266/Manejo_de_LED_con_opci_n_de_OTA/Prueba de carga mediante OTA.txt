@@ -1,0 +1,6 @@
+OTA (Over The Air) 
+
+Bootloader no se usa en este caso.
+
+Para que se pueda detectar la placa hay que tener instalado python 2.7
+*Instale ese python y el mas actual y nada...

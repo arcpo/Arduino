@@ -1,0 +1,7 @@
+Este programa es para inicializar la fecha y hora en el modulo tiny RTC DS1307
+La fecha y hora con la que inicia es la que se obtiene en el momento de compilar el programa (así que habría que compilar y subirlo enseguida)
+
+Hay que asegurarse que el compilador tenga cargada la librería RTClib
+
+--------------------------------------------------
+Los datos de como conectar esta en el archivo de arduino

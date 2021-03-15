@@ -1,0 +1,10 @@
+1 Arduino nano
+1 Caja electrica chica
+1 Rele
+1 Reloj DS3203
+1 Fuente CA/CC de 220V a 5V 700mA
+
+Posiblemente
+2 derivadores
+Pegamento
+1 Enchufe siemple

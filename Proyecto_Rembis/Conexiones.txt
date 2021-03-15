@@ -1,0 +1,6 @@
+Rele se conecta en el pin 2 (D2)
+
+El reloj, la placa con el reloj, se conecta de la siguiente manera:
+el Pin SDA del reloj va en el pin A4 del arduino NANO
+el pin SCL del reloj va en el pin A5 del arduino NANO
+

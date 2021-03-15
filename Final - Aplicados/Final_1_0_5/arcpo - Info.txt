@@ -1,0 +1,6 @@
+Arduino UNO, o NANO
+Usa un rele para controlar una bomba
+toma mediciones de un sensor de distancia por sonido
+la idea que use al ESP8266 para enviar mail cada vez que se activa la bomba (en un futuro es para indicar problemas)
+
+mas info en el programa comentado

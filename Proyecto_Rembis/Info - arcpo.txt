@@ -1,0 +1,14 @@
+El RTC DS1307 va conectado al arduino Nano de la siguiente manera:
+SCL (Modulo Tiny RTC) ----> A5 (Placa Arduino Nano)
+SDA (Modulo Tiny RTC) ----> A4 (Placa Arduino Nano)
+
+----------------------------
+Para compilar no hay problema, para "subir" el programa al arduino nano, capaz hay que cambiar el procesador en opciones de Herramientas, de ATmega328P a ATmega328P (Old Bootloader)
+
+----------------------------
+
+El rele, como se indica en el programa al en el pin 2.
+
+----------------------------
+
+Habría que ver como agregar un watchdog para que no se cuelgue por las dudas.

@@ -1,0 +1,3 @@
+Esta programa controla la bomba de agua, activando un rele, y lo hace usando un sensor ultrasonico.
+Ademas muestra en un LCD la hora y el nivel del tanque.
+La hora la lee de un integrado RTC externo al arduino.

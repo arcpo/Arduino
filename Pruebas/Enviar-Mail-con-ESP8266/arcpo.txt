@@ -1,0 +1,10 @@
+Para modificar la dirección de envío, no solo hay que modificarla en el archivo .ino, sinó que en Gsender.h donde dice como sigue:
+
+        const char* EMAILBASE64_LOGIN = "YXJjYXBvdWsyMDE4QGdtYWlsLmNvbQ";
+        const char* EMAILBASE64_PASSWORD = "R21AaWwyMDE3";
+        const char* FROM = "arcapouk2018@gmail.com";
+
+hay que entrar en www.base64encode.org, por las dudas active un casilla que dice: "Perform URL safe encoding (uses Base64URL format)
+poner el mail para que sea codificado en Base64, copiar y pegar donde dice EmailBase64_login, de igual manera con password.
+
+Y aunque no hay que modificar nada si es que se usan los mismos archivos, tener en cuenta que se agregó una linea en el archivo GSender.cpp, se agrego la linea 54.
