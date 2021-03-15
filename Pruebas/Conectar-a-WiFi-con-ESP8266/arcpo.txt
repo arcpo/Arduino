@@ -1,3 +1,0 @@
-Antes de programar, selecciona el “Módulo genérico ESP8266” de las placas y también selecciona el puerto COM correcto.
-
-Ahora, conecta el GPIO0 a GND y reinicia el ESP y pulsa el botón de subir. El Módulo WiFi ESP8266 se conectará automáticamente a la red WiFi especificada y también responderá con la dirección IP
